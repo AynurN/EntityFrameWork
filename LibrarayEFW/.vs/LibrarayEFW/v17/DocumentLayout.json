@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Entity FW\\LibrarayEFW\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A5ED83E0-4BC1-4BD7-80F1-DD90899CF4DD}|LibrarayEFW\\LibrarayEFW.csproj|c:\\users\\user\\desktop\\entity fw\\librarayefw\\librarayefw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5ED83E0-4BC1-4BD7-80F1-DD90899CF4DD}|LibrarayEFW\\LibrarayEFW.csproj|solutionrelative:librarayefw\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5ED83E0-4BC1-4BD7-80F1-DD90899CF4DD}|LibrarayEFW\\LibrarayEFW.csproj|c:\\users\\user\\desktop\\entity fw\\librarayefw\\librarayefw\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5ED83E0-4BC1-4BD7-80F1-DD90899CF4DD}|LibrarayEFW\\LibrarayEFW.csproj|solutionrelative:librarayefw\\interfaces\\ibookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5ED83E0-4BC1-4BD7-80F1-DD90899CF4DD}|LibrarayEFW\\LibrarayEFW.csproj|c:\\users\\user\\desktop\\entity fw\\librarayefw\\librarayefw\\implementations\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5ED83E0-4BC1-4BD7-80F1-DD90899CF4DD}|LibrarayEFW\\LibrarayEFW.csproj|solutionrelative:librarayefw\\implementations\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5ED83E0-4BC1-4BD7-80F1-DD90899CF4DD}|LibrarayEFW\\LibrarayEFW.csproj|c:\\users\\user\\desktop\\entity fw\\librarayefw\\librarayefw\\implementations\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5ED83E0-4BC1-4BD7-80F1-DD90899CF4DD}|LibrarayEFW\\LibrarayEFW.csproj|solutionrelative:librarayefw\\implementations\\genreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5ED83E0-4BC1-4BD7-80F1-DD90899CF4DD}|LibrarayEFW\\LibrarayEFW.csproj|c:\\users\\user\\desktop\\entity fw\\librarayefw\\librarayefw\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5ED83E0-4BC1-4BD7-80F1-DD90899CF4DD}|LibrarayEFW\\LibrarayEFW.csproj|solutionrelative:librarayefw\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5ED83E0-4BC1-4BD7-80F1-DD90899CF4DD}|LibrarayEFW\\LibrarayEFW.csproj|c:\\users\\user\\desktop\\entity fw\\librarayefw\\librarayefw\\migrations\\20240704052510_libraryinitialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5ED83E0-4BC1-4BD7-80F1-DD90899CF4DD}|LibrarayEFW\\LibrarayEFW.csproj|solutionrelative:librarayefw\\migrations\\20240704052510_libraryinitialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5ED83E0-4BC1-4BD7-80F1-DD90899CF4DD}|LibrarayEFW\\LibrarayEFW.csproj|c:\\users\\user\\desktop\\entity fw\\librarayefw\\librarayefw\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5ED83E0-4BC1-4BD7-80F1-DD90899CF4DD}|LibrarayEFW\\LibrarayEFW.csproj|solutionrelative:librarayefw\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5ED83E0-4BC1-4BD7-80F1-DD90899CF4DD}|LibrarayEFW\\LibrarayEFW.csproj|c:\\users\\user\\desktop\\entity fw\\librarayefw\\librarayefw\\interfaces\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5ED83E0-4BC1-4BD7-80F1-DD90899CF4DD}|LibrarayEFW\\LibrarayEFW.csproj|solutionrelative:librarayefw\\interfaces\\igenreservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A5ED83E0-4BC1-4BD7-80F1-DD90899CF4DD}|LibrarayEFW\\LibrarayEFW.csproj|c:\\users\\user\\desktop\\entity fw\\librarayefw\\librarayefw\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A5ED83E0-4BC1-4BD7-80F1-DD90899CF4DD}|LibrarayEFW\\LibrarayEFW.csproj|solutionrelative:librarayefw\\genre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IBookService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Entity FW\\LibrarayEFW\\LibrarayEFW\\Interfaces\\IBookService.cs",
+              "RelativeDocumentMoniker": "LibrarayEFW\\Interfaces\\IBookService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Entity FW\\LibrarayEFW\\LibrarayEFW\\Interfaces\\IBookService.cs",
+              "RelativeToolTip": "LibrarayEFW\\Interfaces\\IBookService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:31:14.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenreService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Entity FW\\LibrarayEFW\\LibrarayEFW\\Implementations\\GenreService.cs",
+              "RelativeDocumentMoniker": "LibrarayEFW\\Implementations\\GenreService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Entity FW\\LibrarayEFW\\LibrarayEFW\\Implementations\\GenreService.cs",
+              "RelativeToolTip": "LibrarayEFW\\Implementations\\GenreService.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAAACgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:36:26.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Entity FW\\LibrarayEFW\\LibrarayEFW\\Implementations\\BookService.cs",
+              "RelativeDocumentMoniker": "LibrarayEFW\\Implementations\\BookService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Entity FW\\LibrarayEFW\\LibrarayEFW\\Implementations\\BookService.cs",
+              "RelativeToolTip": "LibrarayEFW\\Implementations\\BookService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:36:03.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IGenreService.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Entity FW\\LibrarayEFW\\LibrarayEFW\\Interfaces\\IGenreService.cs",
+              "RelativeDocumentMoniker": "LibrarayEFW\\Interfaces\\IGenreService.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Entity FW\\LibrarayEFW\\LibrarayEFW\\Interfaces\\IGenreService.cs",
+              "RelativeToolTip": "LibrarayEFW\\Interfaces\\IGenreService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:35:07.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240704052510_LibraryInitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Entity FW\\LibrarayEFW\\LibrarayEFW\\Migrations\\20240704052510_LibraryInitialMigration.cs",
+              "RelativeDocumentMoniker": "LibrarayEFW\\Migrations\\20240704052510_LibraryInitialMigration.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Entity FW\\LibrarayEFW\\LibrarayEFW\\Migrations\\20240704052510_LibraryInitialMigration.cs",
+              "RelativeToolTip": "LibrarayEFW\\Migrations\\20240704052510_LibraryInitialMigration.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:25:11.356Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Entity FW\\LibrarayEFW\\LibrarayEFW\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "LibrarayEFW\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Entity FW\\LibrarayEFW\\LibrarayEFW\\AppDbContext.cs",
+              "RelativeToolTip": "LibrarayEFW\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:12:20.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Genre.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Entity FW\\LibrarayEFW\\LibrarayEFW\\Genre.cs",
+              "RelativeDocumentMoniker": "LibrarayEFW\\Genre.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Entity FW\\LibrarayEFW\\LibrarayEFW\\Genre.cs",
+              "RelativeToolTip": "LibrarayEFW\\Genre.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:08:02.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Entity FW\\LibrarayEFW\\LibrarayEFW\\Book.cs",
+              "RelativeDocumentMoniker": "LibrarayEFW\\Book.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Entity FW\\LibrarayEFW\\LibrarayEFW\\Book.cs",
+              "RelativeToolTip": "LibrarayEFW\\Book.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAADgvxIAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:07:39.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Entity FW\\LibrarayEFW\\LibrarayEFW\\Program.cs",
+              "RelativeDocumentMoniker": "LibrarayEFW\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Entity FW\\LibrarayEFW\\LibrarayEFW\\Program.cs",
+              "RelativeToolTip": "LibrarayEFW\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAABgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T05:00:26.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
