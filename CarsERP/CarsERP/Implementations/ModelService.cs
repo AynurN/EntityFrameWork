@@ -31,7 +31,7 @@ namespace CarsERP.Implementations
 
         public List<Model> GetAll()
         {
-            return context.Models.Include(x=>x.Brand).ToList();
+            return context.Models.AsNoTracking().Include(x=>x.Brand).ToList();
         }
 
         public Model GetById(int id)

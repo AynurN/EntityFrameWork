@@ -30,7 +30,7 @@ namespace CarsERP.Implementations
 
         public List<Car> GetAll()
         {
-           return context.Cars.Include(x=>x.Model).ThenInclude(x=>x.Brand).Include(x=>x.CarColors).ThenInclude(x=>x.Color).ToList();
+           return context.Cars.AsNoTracking().Include(x=>x.Model).ThenInclude(x=>x.Brand).Include(x=>x.CarColors).ThenInclude(x=>x.Color).ToList();
         }
 
         public Car GetById(int id)

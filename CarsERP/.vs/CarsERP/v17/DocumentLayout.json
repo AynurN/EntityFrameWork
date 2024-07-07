@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Entity FW\\CarsERP\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6A2F9425-8348-4F05-BC6B-5684F10921C3}|CarsERP\\CarsERP.csproj|c:\\users\\user\\desktop\\entity fw\\carserp\\carserp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A2F9425-8348-4F05-BC6B-5684F10921C3}|CarsERP\\CarsERP.csproj|solutionrelative:carserp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6A2F9425-8348-4F05-BC6B-5684F10921C3}|CarsERP\\CarsERP.csproj|c:\\users\\user\\desktop\\entity fw\\carserp\\carserp\\implementations\\modelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2F9425-8348-4F05-BC6B-5684F10921C3}|CarsERP\\CarsERP.csproj|solutionrelative:carserp\\implementations\\modelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A2F9425-8348-4F05-BC6B-5684F10921C3}|CarsERP\\CarsERP.csproj|c:\\users\\user\\desktop\\entity fw\\carserp\\carserp\\implementations\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A2F9425-8348-4F05-BC6B-5684F10921C3}|CarsERP\\CarsERP.csproj|solutionrelative:carserp\\implementations\\carservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A2F9425-8348-4F05-BC6B-5684F10921C3}|CarsERP\\CarsERP.csproj|c:\\users\\user\\desktop\\entity fw\\carserp\\carserp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6A2F9425-8348-4F05-BC6B-5684F10921C3}|CarsERP\\CarsERP.csproj|solutionrelative:carserp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6A2F9425-8348-4F05-BC6B-5684F10921C3}|CarsERP\\CarsERP.csproj|c:\\users\\user\\desktop\\entity fw\\carserp\\carserp\\models\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -35,10 +39,6 @@
       "RelativeMoniker": "D:0:0:{6A2F9425-8348-4F05-BC6B-5684F10921C3}|CarsERP\\CarsERP.csproj|solutionrelative:carserp\\implementations\\colorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6A2F9425-8348-4F05-BC6B-5684F10921C3}|CarsERP\\CarsERP.csproj|c:\\users\\user\\desktop\\entity fw\\carserp\\carserp\\implementations\\modelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6A2F9425-8348-4F05-BC6B-5684F10921C3}|CarsERP\\CarsERP.csproj|solutionrelative:carserp\\implementations\\modelservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6A2F9425-8348-4F05-BC6B-5684F10921C3}|CarsERP\\CarsERP.csproj|c:\\users\\user\\desktop\\entity fw\\carserp\\carserp\\implementations\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6A2F9425-8348-4F05-BC6B-5684F10921C3}|CarsERP\\CarsERP.csproj|solutionrelative:carserp\\implementations\\brandservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -58,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "CarColor.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Entity FW\\CarsERP\\CarsERP\\Models\\CarColor.cs",
               "RelativeDocumentMoniker": "CarsERP\\Models\\CarColor.cs",
@@ -70,12 +70,11 @@
               "RelativeToolTip": "CarsERP\\Models\\CarColor.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T19:00:28.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T19:00:28.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Entity FW\\CarsERP\\CarsERP\\Models\\Car.cs",
               "RelativeDocumentMoniker": "CarsERP\\Models\\Car.cs",
@@ -83,12 +82,11 @@
               "RelativeToolTip": "CarsERP\\Models\\Car.cs",
               "ViewState": "AQIAABMAAAAAAAAAAAAAABoAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T18:47:59.857Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T18:47:59.857Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Model.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Entity FW\\CarsERP\\CarsERP\\Models\\Model.cs",
               "RelativeDocumentMoniker": "CarsERP\\Models\\Model.cs",
@@ -96,12 +94,11 @@
               "RelativeToolTip": "CarsERP\\Models\\Model.cs",
               "ViewState": "AQIAAAoAAAAAAAAAAAAAABEAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T17:06:01.931Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T17:06:01.931Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "ColorService.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Entity FW\\CarsERP\\CarsERP\\Implementations\\ColorService.cs",
               "RelativeDocumentMoniker": "CarsERP\\Implementations\\ColorService.cs",
@@ -109,18 +106,17 @@
               "RelativeToolTip": "CarsERP\\Implementations\\ColorService.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAAAA8AAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T15:31:15.19Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T15:31:15.19Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 0,
               "Title": "ModelService.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Entity FW\\CarsERP\\CarsERP\\Implementations\\ModelService.cs",
               "RelativeDocumentMoniker": "CarsERP\\Implementations\\ModelService.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Entity FW\\CarsERP\\CarsERP\\Implementations\\ModelService.cs",
               "RelativeToolTip": "CarsERP\\Implementations\\ModelService.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAACkAAAAaAAAA",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAAACEAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-07T15:26:20.944Z",
               "EditorCaption": ""
@@ -135,8 +131,7 @@
               "RelativeToolTip": "CarsERP\\Implementations\\BrandService.cs",
               "ViewState": "AQIAACgAAAAAAAAAAAAAAB4AAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T15:23:47.572Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T15:23:47.572Z"
             },
             {
               "$type": "Document",
@@ -146,7 +141,7 @@
               "RelativeDocumentMoniker": "CarsERP\\Implementations\\CarService.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Entity FW\\CarsERP\\CarsERP\\Implementations\\CarService.cs",
               "RelativeToolTip": "CarsERP\\Implementations\\CarService.cs",
-              "ViewState": "AQIAADMAAAAAAAAAAAAAAD8AAAAJAAAA",
+              "ViewState": "AQIAABYAAAAAAAAAAAAAAB0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-07T15:17:32.576Z",
               "EditorCaption": ""
@@ -161,8 +156,7 @@
               "RelativeToolTip": "CarsERP\\Interfaces\\IColorService.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAgwBEAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T15:16:17.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T15:16:17.979Z"
             },
             {
               "$type": "Document",
@@ -174,12 +168,11 @@
               "RelativeToolTip": "CarsERP\\Interfaces\\IModelService.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAowA4AAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T15:15:06.389Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T15:15:06.389Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IBrandService.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Entity FW\\CarsERP\\CarsERP\\Interfaces\\IBrandService.cs",
               "RelativeDocumentMoniker": "CarsERP\\Interfaces\\IBrandService.cs",
@@ -187,12 +180,11 @@
               "RelativeToolTip": "CarsERP\\Interfaces\\IBrandService.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAAAA4AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T15:13:33.334Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T15:13:33.334Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ICarService.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Entity FW\\CarsERP\\CarsERP\\Interfaces\\ICarService.cs",
               "RelativeDocumentMoniker": "CarsERP\\Interfaces\\ICarService.cs",
@@ -200,12 +192,11 @@
               "RelativeToolTip": "CarsERP\\Interfaces\\ICarService.cs",
               "ViewState": "AQIAAAcAAAAAAAAAAAAAABAAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-07T10:06:04.985Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-07T10:06:04.985Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Entity FW\\CarsERP\\CarsERP\\Program.cs",
               "RelativeDocumentMoniker": "CarsERP\\Program.cs",
